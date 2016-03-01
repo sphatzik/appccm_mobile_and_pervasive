@@ -6,8 +6,8 @@
 //  by Yiman Li and Ing-Ray Chen
 //
 //
-//  Created by Spiros Chatzikotoulas AEM:300 sphatzik@inf.uth.gr
-//  and Nick Goulias AEM:282 nigoulia@inf.uth.gr
+//  Created by Spiros Chatzikotoulas 
+//  and Nick Goulias AEM:282 
 //
 
 
