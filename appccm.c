@@ -6,8 +6,7 @@
 //  by Yiman Li and Ing-Ray Chen
 //
 //
-//  Created by Spiros Chatzikotoulas 
-//  and Nick Goulias AEM:282 
+//  Created by Spiros Chatzikotoulas and Nick Goulias
 //
 
 
